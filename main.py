@@ -29,8 +29,8 @@ class instogrammAPI(threading.Thread):
         self.users_dict_comments = dict()
         # login credentials
 
-        insta_username = 'daniakhorze'
-        insta_password = 'Ll154105'
+        insta_username = 'YOUR_BOT_LOGIN'
+        insta_password = 'YOUR_BOT_PASSWORD'
         self.ranning = True
         self.comments = ['Nice shot! @{}',
                 'I love your profile! @{}',
