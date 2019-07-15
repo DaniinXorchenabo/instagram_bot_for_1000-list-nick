@@ -1,6 +1,6 @@
 # instagram_bot_for_1000-list-nick
 
-Чтобы запучтить код, надо:
+Чтобы запустить код, надо:
    1. Установить библиотеку instapy
             
                         pip install instapy
