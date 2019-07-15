@@ -1,4 +1,4 @@
-# instogram_bot_for_1000-list-nik
+# instagram_bot_for_1000-list-nick
 
 Чтобы запучтить код, надо:
    1. Установить библиотеку instapy
