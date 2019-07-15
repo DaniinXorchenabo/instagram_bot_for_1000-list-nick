@@ -1,0 +1,38 @@
+#done_session{
+	position: absolute;
+width: 244px;
+height: 244px;
+left: 178px;
+top: 358px;
+	background: url(des/trying_button.png);
+}
+#ok_img{
+	background: url(des/ok.png);
+}
+#noImg{
+	background: url(des/noImg.png);
+}
+#login_img{
+	background: url(des/loding.png);
+}
+#you_finish_ckecking_text{
+	position: absolute;
+width: 323px;
+height: 74px;
+left: 141px;
+top: 617px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 91.4%;
+/* or 37px */
+
+text-align: center;
+letter-spacing: -0.025em;
+
+color: #000000;
+
+
+}

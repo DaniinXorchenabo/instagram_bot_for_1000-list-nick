@@ -1,0 +1,642 @@
+/* Desktop3 */
+
+position: relative;
+width: 600px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 1.83%;
+right: 1.83%;
+top: 39.26%;
+bottom: 12.89%;
+
+background: linear-gradient(267deg, #FC4A1A -3.62%, #F7B733 109.21%);
+border-radius: 25px;
+
+
+/* Rectangle 2.1 */
+
+position: absolute;
+width: 600px;
+height: 648px;
+left: 0px;
+top: 376px;
+
+background: linear-gradient(180deg, #FC4A1A 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #FC4A1A 0%, rgba(252, 74, 26, 0) 60.2%);
+mix-blend-mode: normal;
+
+
+/* Выбери себе задание */
+
+position: absolute;
+width: 539px;
+height: 140px;
+left: 30px;
+top: 115px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+
+color: #000000;
+
+
+
+/* Group */
+
+position: absolute;
+width: 79px;
+height: 51px;
+left: 33px;
+top: 272px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 79px;
+height: 51px;
+left: 33px;
+top: 272px;
+
+background: #C4C4C4;
+border-radius: 15px;
+
+
+/* Всё */
+
+position: absolute;
+width: 79px;
+height: 37px;
+left: 33px;
+top: 279px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.025em;
+
+color: #FFFFFF;
+
+
+
+/* Group */
+
+position: absolute;
+width: 87px;
+height: 51px;
+left: 122px;
+top: 272px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 87px;
+height: 51px;
+left: 122px;
+top: 272px;
+
+background: #C4C4C4;
+border-radius: 15px;
+
+
+/* Лайк */
+
+position: absolute;
+width: 87px;
+height: 37px;
+left: 122px;
+top: 279px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.025em;
+
+color: #FFFFFF;
+
+border-radius: 15px;
+
+
+/* Group */
+
+position: absolute;
+width: 176px;
+height: 51px;
+left: 33px;
+top: 334px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 176px;
+height: 51px;
+left: 33px;
+top: 334px;
+
+background: #C4C4C4;
+border-radius: 15px;
+
+
+/* Подписка */
+
+position: absolute;
+width: 159px;
+height: 33px;
+left: 41px;
+top: 341px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+letter-spacing: -0.025em;
+
+color: #FFFFFF;
+
+
+
+/* Group */
+
+position: absolute;
+width: 176px;
+height: 51px;
+left: 220px;
+top: 334px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 176px;
+height: 51px;
+left: 220px;
+top: 334px;
+
+background: #C4C4C4;
+border-radius: 15px;
+
+
+/* Коммент */
+
+position: absolute;
+width: 159px;
+height: 33px;
+left: 228px;
+top: 341px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+letter-spacing: -0.025em;
+
+color: #FFFFFF;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 537px;
+height: 133px;
+left: 35px;
+top: 427px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 537px;
+height: 133px;
+left: 35px;
+top: 427px;
+
+background: #FFFFFF;
+box-shadow: 0px 6px 3px rgba(0, 0, 0, 0.44);
+border-radius: 25px;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 92px;
+height: 92px;
+left: 48px;
+top: 447px;
+
+background: #C4C4C4;
+border-radius: 25px;
+
+
+/* wooooo man */
+
+position: absolute;
+width: 88px;
+height: 88px;
+left: 50px;
+top: 449px;
+
+background: url(wooooo man.png);
+border-radius: 25px;
+
+
+/* wooman */
+
+position: absolute;
+width: 134px;
+height: 37px;
+left: 142px;
+top: 447px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+color: #000000;
+
+border-radius: 25px;
+
+
+/* heart_PNG51337 */
+
+position: absolute;
+width: 99px;
+height: 99px;
+left: 389px;
+top: 444px;
+
+background: url(heart_PNG51337.png);
+border-radius: 25px;
+
+
+/* 1 руб. */
+
+position: absolute;
+width: 136px;
+height: 61px;
+left: 429px;
+top: 463px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+color: #000000;
+
+border-radius: 25px;
+
+
+/* Group 2.1 */
+
+position: absolute;
+width: 537px;
+height: 133px;
+left: 33px;
+top: 577px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 537px;
+height: 133px;
+left: 33px;
+top: 577px;
+
+background: #FFFFFF;
+box-shadow: 0px 6px 3px rgba(0, 0, 0, 0.44);
+border-radius: 25px;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 92px;
+height: 92px;
+left: 46px;
+top: 597px;
+
+background: #C4C4C4;
+border-radius: 25px;
+
+
+/* wooooo man */
+
+position: absolute;
+width: 88px;
+height: 88px;
+left: 48px;
+top: 599px;
+
+background: url(wooooo man.png);
+border-radius: 25px;
+
+
+/* wooman */
+
+position: absolute;
+width: 134px;
+height: 37px;
+left: 140px;
+top: 597px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+color: #000000;
+
+border-radius: 25px;
+
+
+/* heart_PNG51337 */
+
+position: absolute;
+width: 99px;
+height: 99px;
+left: 387px;
+top: 594px;
+
+background: url(heart_PNG51337.png);
+border-radius: 25px;
+
+
+/* 1 руб. */
+
+position: absolute;
+width: 136px;
+height: 61px;
+left: 427px;
+top: 613px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+color: #000000;
+
+border-radius: 25px;
+
+
+/* Group 2.2 */
+
+position: absolute;
+width: 542px;
+height: 133px;
+left: 31px;
+top: 727px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 537px;
+height: 133px;
+left: 31px;
+top: 727px;
+
+background: #FFFFFF;
+box-shadow: 0px 6px 3px rgba(0, 0, 0, 0.44);
+border-radius: 25px;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 92px;
+height: 92px;
+left: 44px;
+top: 747px;
+
+background: #C4C4C4;
+border-radius: 25px;
+
+
+/* wooooo man */
+
+position: absolute;
+width: 88px;
+height: 88px;
+left: 46px;
+top: 749px;
+
+background: url(wooooo man.png);
+border-radius: 25px;
+
+
+/* wooman */
+
+position: absolute;
+width: 134px;
+height: 37px;
+left: 138px;
+top: 747px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+color: #000000;
+
+border-radius: 25px;
+
+
+/* 1 руб */
+
+position: absolute;
+width: 124px;
+height: 57px;
+left: 429px;
+top: 741px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 59px;
+
+color: #000000;
+
+border-radius: 25px;
+
+
+/* лайк */
+
+position: absolute;
+width: 144px;
+height: 57px;
+left: 429px;
+top: 788px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 59px;
+
+color: #000000;
+
+border-radius: 25px;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 6px;
+top: 7px;
+
+
+
+/* Rectangle 2.1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #C4C4C4;
+border-radius: 16px;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.29%;
+right: 33.57%;
+top: 18.57%;
+bottom: 17.14%;
+
+border: 5px solid #FFFFFF;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 133px;
+height: 70px;
+left: 456px;
+top: 7px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 76%;
+right: 1.83%;
+top: 0.68%;
+bottom: 92.48%;
+
+background: linear-gradient(265.17deg, #FC4A1A -3.62%, #F7B733 109.21%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 16px;
+
+
+/* 1 руб */
+
+position: absolute;
+width: 119px;
+height: 44px;
+left: 463px;
+top: 20px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 83.9%;
+/* or 38px */
+
+color: #FFFFFF;
+
+
+
+/* Group */
+
+position: absolute;
+width: 578px;
+height: 99px;
+left: 13px;
+top: 911px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(255.45deg, #FC4A1A -3.62%, #F7B733 109.21%);
+border-radius: 25px;
+
+
+/* Закончить */
+
+position: absolute;
+left: 30.97%;
+right: 30.96%;
+top: 17.19%;
+bottom: 21.2%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 153.4%;
+/* or 61px */
+text-align: center;
+letter-spacing: -0.03em;
+
+color: #FFFFFF;
+
+border-radius: 25px;

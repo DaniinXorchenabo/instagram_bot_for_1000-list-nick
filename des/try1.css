@@ -1,0 +1,194 @@
+QMainWindow #centralwidget{
+position: relative;
+width: 600px;
+height: 1024px;
+
+background: #FFFFFF;
+}
+
+/* Rectangle */
+#widget{
+position: absolute;
+left: 1.83%;
+right: 1.83%;
+top: 39.26%;
+bottom: 12.89%;
+
+background: linear-gradient(267deg, #FC4A1A -3.62%, #F7B733 109.21%);
+border-radius: 25px;
+}
+#change_text{
+	position: absolute;
+width: 539px;
+height: 140px;
+left: 30px;
+top: 115px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+
+color: #000000;
+}
+#find_all{
+position: absolute;
+width: 79px;
+height: 37px;
+left: 33px;
+top: 279px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.025em;
+
+color: #FFFFFF;
+}
+#rectangle{
+	position: absolute;
+width: 79px;
+height: 51px;
+left: 33px;
+top: 272px;
+
+background: #C4C4C4;
+border-radius: 15px;
+}
+#big_rect{
+position: absolute;
+left: 1.83%;
+right: 1.83%;
+top: 39.26%;
+bottom: 12.89%;
+
+background: #F7B733 ;
+border-radius: 25px;
+}
+
+#tasks{
+	position: absolute;
+width: 537px;
+height: 133px;
+left: 35px;
+top: 427px;
+
+background: #FFFFFF;
+box-shadow: 0px 6px 3px rgba(0, 0, 0, 0.44);
+border-radius: 25px;
+}
+#insta_img1{
+	position: absolute;
+width: 88px;
+height: 88px;
+left: 50px;
+top: 449px;
+
+background: url(des/pic1.png);
+border-radius: 50%;
+}
+#insta_img2{
+	position: absolute;
+width: 88px;
+height: 88px;
+left: 50px;
+top: 449px;
+
+background: url(des/pic1.png);
+border-radius: 50%;
+}
+#insta_img3{
+	position: absolute;
+width: 88px;
+height: 88px;
+left: 50px;
+top: 449px;
+
+background: url(des/pic1.png);
+border-radius: 50%;
+}
+#inst_login{
+	position: absolute;
+width: 134px;
+height: 37px;
+left: 142px;
+top: 447px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #000000;
+
+border-radius: 25px;
+}
+#heart{
+	position: absolute;
+width: 99px;
+height: 99px;
+left: 389px;
+top: 444px;
+
+background: url(des/heart.png);
+border-radius: 25px;
+
+}
+#prise{
+	position: absolute;
+width: 136px;
+height: 61px;
+left: 429px;
+top: 463px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+
+color: #000000;
+
+border-radius: 25px;
+}
+#ended_session{
+	position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F7B733;
+border-radius: 25px;
+}
+#ended_session_text{
+	position: absolute;
+left: 30.97%;
+right: 30.96%;
+top: 17.19%;
+bottom: 21.2%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 153.4%;
+/* or 61px */
+
+text-align: center;
+letter-spacing: -0.03em;
+
+color: #FFFFFF;
+
+border-radius: 25px;
+}
