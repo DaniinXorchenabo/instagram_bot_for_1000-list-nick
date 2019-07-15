@@ -15,6 +15,6 @@
         на те, которые лежат в соответствующей папке в данном репозитории 
         (https://github.com/DaniinXorchenabo/instogram_bot_for_1000-list-nik/tree/master/'python_dir'/Lib/site-packages/instapy)
   
-   3. после этого для начала работы кода необходимо запустить файл main.py
+   3. После этого для начала работы кода необходимо запустить файл main.py
 
   
